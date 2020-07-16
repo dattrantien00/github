@@ -5,7 +5,7 @@ using System.Web;
 
 namespace BTLcnpm.Common
 {
-    [Serializable]
+    [Serializable]    
     public class SoTien
     {
         public long money { set; get; }
